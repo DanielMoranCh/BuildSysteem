@@ -1,5 +1,5 @@
 /**
- * @author Jorge Lopez
+ * @author Luis Odar Iván Zambrano Paredes
  */
 var mongoose = require('mongoose');
 	

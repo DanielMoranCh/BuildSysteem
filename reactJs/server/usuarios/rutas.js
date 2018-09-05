@@ -1,5 +1,5 @@
 /**
- * @author Jorge Lopez
+ * @author Luis Odar Iván Zambrano Paredes
  */
 var express = require('express');
 var BDAgenda = require('../datos/bdtienda.js'),

@@ -1,5 +1,5 @@
 /**
- * @author Jorge Lopez
+ * @author Luis Odar Iván Zambrano Paredes
  */
 var bodyParser = require('body-parser'),
 	http = require('http'),
